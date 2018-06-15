@@ -5,7 +5,7 @@
 ![College of Business](https://mizzouadvantage.missouri.edu/wp-content/uploads/2015/10/MIZ-BIZ.jpg)
 
 #### *Programs Offered*:
-* [Accountancy](../markdown.cd)
+* [Accountancy](master/markdown.cd)
 * [Economics](https://business.missouri.edu/programs-and-admissions/undergraduate/degree-programs/economics "Mizzou Economics")
 * [Finance](https://business.missouri.edu/programs-and-admissions/undergraduate/academics/finance-and-banking "Mizzou Finance")
 * [International Business](https://business.missouri.edu/programs-and-admissions/undergraduate/degree-programs/international-business "Mizzou International Business")
