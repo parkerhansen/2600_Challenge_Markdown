@@ -1,4 +1,4 @@
-##University of Missouri
+## University of Missouri
 
 ### College of Business
 
@@ -6,11 +6,11 @@
 
 #### *Programs Offered*:
 * Accountancy
-* Economics
-* Finance
-* International Business
-* Management
-* Marketing
+* [Economics](https://business.missouri.edu/programs-and-admissions/undergraduate/degree-programs/economics "Mizzou Economics")
+* [Finance](https://business.missouri.edu/programs-and-admissions/undergraduate/academics/finance-and-banking "Mizzou Finance")
+* [International Business](https://business.missouri.edu/programs-and-admissions/undergraduate/degree-programs/international-business "Mizzou International Business")
+* [Management](https://business.missouri.edu/programs-and-admissions/undergraduate/degree-programs/management "Mizzou Management")
+* [Marketing](https://business.missouri.edu/programs-and-admissions/undergraduate/degree-programs/marketing "Mizzou Marketing")
 * ~~Real Estate~~
 
 
