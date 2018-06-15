@@ -8,6 +8,6 @@
 
 ### Steps to Success
 1. Go to Class
-2. Study
-3. Study
+2. *Study*
+3. **Study**
 4. Success
