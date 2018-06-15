@@ -4,6 +4,8 @@
 
 ![College of Business](https://mizzouadvantage.missouri.edu/wp-content/uploads/2015/10/MIZ-BIZ.jpg)
 
+---
+
 #### *Programs Offered*:
 * [Accountancy](accounting.md)
 * [Economics](https://business.missouri.edu/programs-and-admissions/undergraduate/degree-programs/economics "Mizzou Economics")
@@ -13,6 +15,7 @@
 * [Marketing](https://business.missouri.edu/programs-and-admissions/undergraduate/degree-programs/marketing "Mizzou Marketing")
 * ~~Real Estate~~
 
+---
 
 #### Grade Calculator
 
